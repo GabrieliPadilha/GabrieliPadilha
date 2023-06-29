@@ -70,5 +70,3 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieliPadilha&show_icons=true&theme=synthwave&rank_icon=github)
-
-![Animação de cobra]( https://github.com/GabrieliPadilha/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
