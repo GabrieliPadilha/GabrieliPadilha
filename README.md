@@ -54,6 +54,9 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     </a>
+    <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Design tools:</h3>
